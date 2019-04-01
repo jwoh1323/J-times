@@ -1,4 +1,0 @@
-certifi==2019.3.9
-npm==0.1.1
-optional-django==0.1.0
-wincertstore==0.2
