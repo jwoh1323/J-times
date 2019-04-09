@@ -160,7 +160,7 @@ function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
 
 
 
-d3.csv("/assets/data/data.csv").then(function (statedata) {
+d3.csv("assets/data/data.csv").then(function (statedata) {
 
   statedata.forEach(function (data) {
     data.poverty = +data.poverty;
