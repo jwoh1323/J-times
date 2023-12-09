@@ -1,6 +1,6 @@
 # J-times
 
-# ABOUT THE PROJECT
+## ABOUT THE PROJECT
 
 The project is about the analysis of the current trends between helth risk, age, and Income. Charts, graphs, and interactive elements are created to help readers understand the findings related to the article.
 The dataset is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
