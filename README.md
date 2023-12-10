@@ -7,7 +7,9 @@ The dataset is based on 2014 ACS 1-year estimates: https://factfinder.census.gov
 
 Languages & Tools used: **Javascript**, **D3.js**
 
+Please click this [this link](https://jwoh1323.github.io/J-times/) to see the graph. 
+
 ![](https://github.com/jwoh1323/J-times/blob/2366bef48dc0ff9a09d3caf46c6ad9aab6d5c240/pro1.gif)
 
 
-Please click this [this link](https://pages.github.com/) to see the graph. 
+
