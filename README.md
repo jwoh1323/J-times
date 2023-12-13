@@ -10,7 +10,7 @@ The dataset is based on 2014 ACS 1-year estimates: https://factfinder.census.gov
 
 
 ## Languages & Tools used 
-**Javascript**, **D3.js**
+Javascript, D3.js
 
 
 ## Final Product
