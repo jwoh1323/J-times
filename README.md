@@ -1,6 +1,6 @@
 # J-times
 
-## ABOUT THE PROJECT
+## Project Description
 
 The project is about the analysis of the current trends between helth risk, age, and Income. Charts, graphs, and interactive elements are created to help readers understand the findings related to the article.
 
