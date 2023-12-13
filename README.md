@@ -13,7 +13,7 @@ The dataset is based on 2014 ACS 1-year estimates: https://factfinder.census.gov
 Javascript, D3.js
 
 
-## Final Product
+## Project Outcome
 
 Please click [this link](https://jwoh1323.github.io/J-times/) to see the visualization. 
 
